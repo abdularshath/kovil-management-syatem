@@ -1,4 +1,4 @@
-# kovil-management-syatem
+# kovil-management-system
 website for kovil management using MERN stack
 
 # 📌 Overview
